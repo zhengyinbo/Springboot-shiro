@@ -11,8 +11,6 @@
  </dependency>
 
 ### 数据库
-|表| user | role | permission | user_role | role_permission | - 
-|说明| 用户表 | 角色表 | 权限表 | 用户-角色表 | 角色-权限表 |
 
 | 数据表 | 说明 |
 | --- | --- |
@@ -21,3 +19,4 @@
 | permission | 权限表 |
 | user_role | 用户-角色表 |
 | role_permission | 角色-权限表 |
+
