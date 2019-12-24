@@ -10,4 +10,6 @@
    <version>1.4.0</version>
  </dependency>
 
-
+### 数据库
+|表| user | role | permission | user_role | role_permission |
+|说明| 用户表 | 角色表 | 权限表 | 用户-角色表 | 角色-权限表 |
