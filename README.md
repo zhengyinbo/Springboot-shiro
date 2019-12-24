@@ -4,11 +4,10 @@
 
 ### 依赖
 
-<code>
  <dependency>
-            <groupId>org.apache.shiro</groupId>
-            <artifactId>shiro-spring</artifactId>
-            <version>1.4.0</version>
-        </dependency>
-</code>
+  <groupId>org.apache.shiro</groupId>
+   <artifactId>shiro-spring</artifactId>
+   <version>1.4.0</version>
+ </dependency>
+
 
